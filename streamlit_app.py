@@ -1,6 +1,6 @@
-import os
-os.environ["CHROMA_DB_IMPL"] = "duckdb+parquet"
-os.environ["PERSIST_DIRECTORY"] = ""
+import sys
+import pysqlite3
+sys.modules["sqlite3"] = pysqlite3
 
 
 import streamlit as st
