@@ -2,3 +2,4 @@ streamlit
 crewai
 pysqlite3-binary
 python-dotenv
+crewai-tools
