@@ -1,3 +1,8 @@
+import os
+os.environ["CHROMA_DB_IMPL"] = "duckdb+parquet"
+os.environ["PERSIST_DIRECTORY"] = ""
+
+
 import streamlit as st
 import os
 import sys
@@ -12,9 +17,7 @@ from src.components.output_handler import capture_output
 from src.lead_generator.crew import LeadGenerator
 from src.utils.pricing import ModelsPricing
 
-import os
-os.environ["CHROMA_DB_IMPL"] = "duckdb+parquet"
-os.environ["PERSIST_DIRECTORY"] = ""
+
 
 # Set page configuration
 st.set_page_config(
