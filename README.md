@@ -33,7 +33,7 @@ Lead Generator AI uses a crew of specialized AI agents to:
 
 ## 🖥️ Demo
 
-Try it out on Streamlit Community Cloud: [Lead Generator AI App](https://leadgeneratorai.streamlit.app/)
+Try it out on Streamlit Community Cloud: [Lead Generator AI App](https://lead-generator-ai.streamlit.app/)
 
 ## 📊 Sample Use Cases
 
@@ -90,8 +90,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 🔗 Connect
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albert-folch-alcaraz/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/folken2)
 
 ---
 
