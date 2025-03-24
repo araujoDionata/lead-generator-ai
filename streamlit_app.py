@@ -20,7 +20,7 @@ from src.utils.pricing import ModelsPricing
 
 # Set page configuration
 st.set_page_config(
-    page_title="Lead Generator",
+    page_title="AI Lead Generator",
     page_icon="🔍",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -30,7 +30,7 @@ st.set_page_config(
 col1, col2, col3 = st.columns([1, 2, 1])
 with col2:
     # Center the main title using markdown with HTML
-    st.markdown("<h1 style='text-align: center;'>🔍 Lead Generator AI Crew</h1>", unsafe_allow_html=True)
+    st.markdown("<h1 style='text-align: center;'>🔍 AI Lead Generator </h1>", unsafe_allow_html=True)
 
 # Render sidebar and get user configuration
 config = render_sidebar()
