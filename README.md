@@ -81,7 +81,7 @@ A typical lead generation run costs approximately $0.001-0.003 depending on the 
 
 - [CrewAI](https://crewai.io/) - Framework for creating AI agent workflows
 - [Streamlit](https://streamlit.io/) - The fastest way to build data apps
-- [OpenAI](https://openai.com/) - Provider of GPT-4 language model
+- [OpenAI](https://openai.com/) - Provider of gpt-4o-mini language model
 - [Serper](https://serper.dev/) - Web search API
 
 ## 📝 License
