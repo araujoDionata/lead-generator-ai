@@ -74,7 +74,7 @@ class LeadGenerator():
 		return Task(
 			config=self.tasks_config['contact_research_task'],
 			context=[self.lead_generation_task()],
-			output_pydantic=LeadOutput,
+			#output_pydantic=LeadOutput,
 		)
 	
 	@task
