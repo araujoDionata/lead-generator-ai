@@ -1,6 +1,6 @@
 # Lead Generator AI
 
-![Lead Generator Logo](https://img.shields.io/badge/AI%20Powered-Lead%20Generator-blue?style=for-the-badge)
+<img width="1230" alt="CrewAI + Streamlit - Lead generator (1)" src="https://github.com/user-attachments/assets/cceb04df-89d0-4397-9c15-ea4832c1feaf" />
 
 ## 🚀 Overview
 
